@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<h1 align="center">🎵 Telegram Music Bot API</h1>
+<h1 align="center">🎵 Telegram AnneBella Music Bot API</h1>
 <p align="center">
   Stream Audio & Video in your Telegram Music Bots — fast, secure, and cookie-free.
 </p>
