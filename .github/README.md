@@ -65,7 +65,7 @@ Contact US [𝐀𝐏𝐈 𝐚𝐧𝐝 𝐩𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧](http
 🧩 Integration
 
 Get started with our open-source bot example:
-Repo: https://github.com/xbitcode/StrangerMusicBot.git
+Repo: https://github.com/AnneBellaBots/music.git
 
 ---
 
@@ -73,7 +73,8 @@ Repo: https://github.com/xbitcode/StrangerMusicBot.git
 
 Need help or want to subscribe?
 
-Telegram:[𝐀𝐏𝐈 𝐚𝐧𝐝 𝐩𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧](https://t.me/Api_and_promotion)
+Telegram:[𝐀𝐏𝐈 𝐚𝐧𝐝 𝐩𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧](https://t.me/Annebellakgc
+)
 
 Maintained by:  [Xbitcode](https://xbitcode.com/)
 
