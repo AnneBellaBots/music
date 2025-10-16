@@ -44,8 +44,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/tyoncffyyu")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TEAM_QARNI")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/httpsjointeamEntertainment")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Team_entertainment")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
@@ -89,12 +89,12 @@ autoclean = []
 confirmer = {}
 file_cache: dict[str, float] = {}
 
-START_IMG_URL = ["https://graph.org/file/637647bebb189cbd35353-104bc1e3217160933f.jpg",
-                 "https://graph.org/file/637647bebb189cbd35353-104bc1e3217160933f.jpg",
-                 "https://graph.org/file/637647bebb189cbd35353-104bc1e3217160933f.jpg"]
+START_IMG_URL = ["https://graph.org/file/d27a20d134ad538215500-e25388e233600fea90.jpg",
+                 "https://graph.org/file/d27a20d134ad538215500-e25388e233600fea90.jpg",
+                 "https://graph.org/file/d27a20d134ad538215500-e25388e233600fea90.jpg"]
     
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/637647bebb189cbd35353-104bc1e3217160933f.jpg"
+    "PING_IMG_URL", "https://graph.org/file/d27a20d134ad538215500-e25388e233600fea90.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/c95a687e777b55be1c792.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/edd388a42dd2c499fd868.jpg"
