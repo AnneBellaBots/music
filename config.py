@@ -89,12 +89,12 @@ autoclean = []
 confirmer = {}
 file_cache: dict[str, float] = {}
 
-START_IMG_URL = ["https://graph.org/file/6f8cf3849825b326bb264-d3c59d284be1909d1e.jpg",
-                 "https://graph.org/file/6f8cf3849825b326bb264-d3c59d284be1909d1e.jpg",
-                 "https://graph.org/file/6f8cf3849825b326bb264-d3c59d284be1909d1e.jpg"]
+START_IMG_URL = ["https://graph.org/file/ea9a8d9b6ec52ab70a330-204e87bf59781015e7.jpg",
+                 "https://graph.org/file/ea9a8d9b6ec52ab70a330-204e87bf59781015e7.jpg",
+                 "https://graph.org/file/ea9a8d9b6ec52ab70a330-204e87bf59781015e7.jpg"]
     
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://graph.org/file/6f8cf3849825b326bb264-d3c59d284be1909d1e.jpg"
+    "PING_IMG_URL", "https://graph.org/file/ea9a8d9b6ec52ab70a330-204e87bf59781015e7.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/c95a687e777b55be1c792.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/edd388a42dd2c499fd868.jpg"
